@@ -1,8 +1,9 @@
-- 💀 hello fellow scream queens 💀
-- 🦇 nocturnal 
+💀 hello fellow scream queens 💀
+- 🦇 i'm alex
 - 🩸 learning to code w/ uc berkeley
 - 🦇 certified hottie
-- 🔪🔪🔪 haters back off 🔪🔪🔪
+
+🔪🔪🔪 haters back off 🔪🔪🔪
 
   /7/Y/^\
   vuVV|C)|                        __ _
