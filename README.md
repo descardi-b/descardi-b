@@ -7,7 +7,7 @@
 
 
 📟 alexandra.lin.holden@gmail.com <br></br>
-🔪 <a href="alexandralinholden.com">alexandralinholden.com</a>
+🔪 <a href="https://www.alexandralinholden.com">alexandralinholden.com</a>
 
 <!---
 descardi-b/descardi-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
