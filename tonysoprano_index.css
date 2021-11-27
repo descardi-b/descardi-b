@@ -1,0 +1,53 @@
+h1 {
+  color: #abfcff;
+  font-style: italic;
+  font-family: "Garamond", serif;
+  font-size: 64px;
+}
+
+h2 {
+  color: #abfcff;
+  font-style: normal;
+  font-family: "Garamond", serif;
+  font-size: 24px;
+  text-align: right;
+  padding-right: 15px;
+}
+
+body {
+  background-color: #f2fffc;
+}
+
+div {
+  background-color: #caede6;
+  padding: 10px 50px 10px 50px;
+}
+
+.drmelfi {
+  background-color: #d7faf2;
+  width: 500px;
+  height: 75px;
+  box-shadow: 10px 10px 8px #e6faf5;
+  margin: 15px;
+}
+
+p {
+  color: black;
+  font-style: normal;
+  font-family: "Times", serif;
+  font-size: 10px;
+  text-indent: 15px;
+  margin: 0px;
+}
+
+br {
+  color: black;
+  font-style: normal;
+  font-family: "Times", serif;
+  font-size: 10px;
+  text-indent: 5px;
+}
+
+img {
+  border: 10px solid #5aa1a3;
+}
